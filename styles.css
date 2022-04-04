@@ -1,10 +1,7 @@
 img { left: 900px;
   border: 3px solid black;
 }
-body {
-  background-image: url("img/background.jpg");
-}
-h1 {color: white; font-size: 200px; -webkit-text-stroke-width: 2px;
+h1 {color: white; font-size: 60px; -webkit-text-stroke-width: 2px;
     -webkit-text-stroke-color: black;}
 
 h2 {color: white; font-size: 35px; -webkit-text-stroke-width: 1px;
@@ -12,3 +9,9 @@ h2 {color: white; font-size: 35px; -webkit-text-stroke-width: 1px;
 .container {
   text-align: center;
 }
+.A{background-image: url("img/gta.jpg")}
+.C{background-image: url("img/forts.jpg")}
+.E{background-image: url("img/mcbg.jpg")}
+.D{background-image: url("img/mariobg.jpg")}
+.F{background-image: url("img/rdrbg.jpg")}
+.B{background-image: url("img/maxresdefault.jpg")}
