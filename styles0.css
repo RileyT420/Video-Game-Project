@@ -15,3 +15,20 @@ h2 {color: white; font-size: 35px; -webkit-text-stroke-width: 1px;
 .D{background-image: url("img/mariobg.jpg")}
 .F{background-image: url("img/rdrbg.jpg")}
 .B{background-image: url("img/maxresdefault.jpg")}
+
+body {
+margin: 0;
+}
+
+html{
+background: black;
+height: 100%;
+overflow: hidden;}
+canvas {
+display: block;
+position:absolute;
+top:0;
+left:0;
+z-index: -10;
+
+}
