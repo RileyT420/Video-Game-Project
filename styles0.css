@@ -18,17 +18,22 @@ h2 {color: white; font-size: 35px; -webkit-text-stroke-width: 1px;
 
 body {
 margin: 0;
+padding: 0;
+height: 100%;
+
 }
 
 html{
 background: black;
-height: 100%;
-overflow: hidden;}
+height:100%;
+}
 canvas {
-display: block;
-position:absolute;
+position:fixed;
 top:0;
 left:0;
 z-index: -10;
+width: 100%;
+height:100%;
+
 
 }
